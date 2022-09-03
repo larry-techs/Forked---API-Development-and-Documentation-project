@@ -1,3 +1,4 @@
+# note this is a forked project of ALX school and udacity 
 # Frontend - Trivia API
 
 ## Getting Setup
